@@ -24,9 +24,9 @@
     <hr>
 </center>
 
-<a href="add.php">Add New Katalog</a><br/><br/>
+<a class='btn btn-primary' href="add.php">Add New Katalog</a><br/><br/>
  
-    <table class="table" width='80%' border=1>
+    <table class="table table-striped" width='80%' border=1 >
  
     <tr>
         <th>ID Katalog</th> 
